@@ -45,6 +45,6 @@ A robust high-resolution remote sensing image steganography network based on att
 
 
 - Here we provide a trained model
-- 链接: https://pan.baidu.com/s/1Uyf1cPfXGkn0YWVmuiHIRA 提取码: 2as8 复制这段内容后打开百度网盘手机App，操作更方便哦
-- 链接: https://pan.baidu.com/s/1_elwOInT3Jo68R-oWnMVTA 提取码: m4it 复制这段内容后打开百度网盘手机App，操作更方便哦
+-link: https://pan.baidu.com/s/1Uyf1cPfXGkn0YWVmuiHIRA Extracted code: 2as8 
+- link: https://pan.baidu.com/s/1_elwOInT3Jo68R-oWnMVTA Extracted code: m4it
 - Fill in the `MODEL_PATH` and `MODEL_PATH1` before testing by the trained model.
